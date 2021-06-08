@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\SaiFlutter\\Example\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_categories.xml",
+        "source": "C:\\SaiFlutter\\Example\\app\\src\\main\\res\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "C:\\SaiFlutter\\Example\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_splash.xml",
+        "source": "C:\\SaiFlutter\\Example\\app\\src\\main\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\SaiFlutter\\Example\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\SaiFlutter\\Example\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\SaiFlutter\\Example\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_landing.xml",
+        "source": "C:\\SaiFlutter\\Example\\app\\src\\main\\res\\layout\\fragment_landing.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="onBoardTopLeftElevation">0dp</dimen>
+    <dimen name="onBoardTopRightElevation">0dp</dimen>
+    <dimen name="onBoardBottomLeftElevation">0dp</dimen>
+    <dimen name="onBoardBottomRightElevation">0dp</dimen>
+    <dimen name="onBoardCorner">30dp</dimen>
+    <dimen name="onBoardShadowRadius">7dp</dimen>
+    <dimen name="otp_box_width">40dp</dimen>
+    <dimen name="design_bottom_navigation_height" tools:override="true">25dp</dimen>
+</resources>
